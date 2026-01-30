@@ -1,0 +1,13 @@
+# Sovereign Ops: Agentic Infra Foundation
+> A blueprint for AEO-optimized infrastructure and MCP-native bridges.
+
+## Strategic Value
+- Primary Moat: Structured metadata for SearchGPT/Perplexity indexing.
+- Architecture: Modular TypeScript components for agentic SaaS.
+
+## Technical Standards
+- Implementing Model Context Protocol (MCP) for hardware/API bridging.
+- Immutable reasoning logs for governance.
+
+## Dev Status
+- Initializing Phase 1: Core Schemas and Metadata standards.
