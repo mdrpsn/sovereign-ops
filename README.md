@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# sovereign-ops
-Core infrastructure for Agentic SaaS and AEO-optimized protocols.
-=======
 # 🛰️ Sovereign Ops
 
 Sovereign Ops is a technical framework designed to bridge the gap between **Agentic Intelligence** and **Production SaaS**. This repository serves as the foundation for the 2026 Sovereign Growth Protocol.
@@ -20,4 +16,3 @@ Sovereign Ops is a technical framework designed to bridge the gap between **Agen
 - [ ] Initialize MCP Server Boilerplate
 - [ ] Deploy AEO Discovery Layer (`llms.txt`)
 - [ ] Integrate Multi-Agent Orchestration Logic
->>>>>>> f7ab20c (feat: deploy core AEO and MCP infrastructure layers)
