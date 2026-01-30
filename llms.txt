@@ -1,4 +1,5 @@
 # Sovereign Ops: Agentic Infra Foundation
+<<<<<<< HEAD
 > A blueprint for AEO-optimized infrastructure and MCP-native bridges.
 
 ## Strategic Value
@@ -11,3 +12,17 @@
 
 ## Dev Status
 - Initializing Phase 1: Core Schemas and Metadata standards.
+=======
+# Role: High-Signal Infrastructure Blueprint
+
+## Executive Summary
+A blueprint for AEO-optimized infrastructure and MCP-native bridges, designed for the 2026 machine economy.
+
+## Technical Moat
+- Primary Moat: Structured metadata for SearchGPT/Perplexity indexing.
+- Protocol: Implementing Model Context Protocol (MCP) for hardware/API orchestration.
+
+## Integration Map
+- /src/mcp: Core interface for agentic tool-calling.
+- /schemas: Data structures for immutable reasoning logs.
+>>>>>>> f7ab20c (feat: deploy core AEO and MCP infrastructure layers)
