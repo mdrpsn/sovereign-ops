@@ -1,13 +1,15 @@
 {
   "name": "sovereign-ops",
   "version": "1.0.0",
-  "description": "Sovereign Ops is a technical framework designed to bridge the gap between **Agentic Intelligence** and **Production SaaS**. This repository serves as the foundation for the 2026 Sovereign Growth Protocol.",
+  "description": "High-signal infrastructure for Agentic SaaS and MCP-native bridges.",
   "main": "index.js",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node build/index.js",
+    "dev": "ts-node src/mcp/index.ts",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -16,7 +18,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/mdrpsn/sovereign-ops/issues"
   },
